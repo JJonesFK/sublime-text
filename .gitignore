@@ -1,0 +1,8 @@
+Backup
+Installed Packages
+Local
+Lib
+Log
+Packages/*
+!Packages/User
+Trash

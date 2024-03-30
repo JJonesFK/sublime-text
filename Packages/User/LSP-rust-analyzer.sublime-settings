@@ -1,0 +1,13 @@
+// Settings in here override those in "LSP-rust-analyzer/LSP-rust-analyzer.sublime-settings"
+
+{
+    "settings": {
+        "LSP": {
+            "rust-analyzer": {
+                "settings": {
+                    //Setting-here
+                }
+            }
+        }
+    }
+}

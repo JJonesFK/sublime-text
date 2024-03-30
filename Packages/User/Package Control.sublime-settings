@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"ayu",
+		"Blade Snippets",
+		"Devastate",
+		"Dockerfile Syntax Highlighting",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JsFormat",
+		"JsPrettier",
+		"Laravel Blade Highlighter",
+		"LSP",
+		"LSP-bash",
+		"LSP-file-watcher-chokidar",
+		"LSP-intelephense",
+		"LSP-json",
+		"LSP-rust-analyzer",
+		"LSP-tailwindcss",
+		"LSP-vue",
+		"Nano Bots",
+		"nginx",
+		"Package Control",
+		"phpfmt",
+		"Pretty JSON",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Terminus",
+		"Theme - Glacier",
+		"Vue Syntax Highlight",
+	],
+}

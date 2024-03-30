@@ -1,0 +1,11 @@
+// Settings in here override those in "/phpfmt/phpfmt.sublime-settings",
+
+{
+    "php_bin": "/usr/bin/php",
+
+    "excludes":
+    [
+    ],
+    "indent_with_space": true,
+    "detect_indent": false
+}

@@ -1,0 +1,27 @@
+[
+   {
+      "keys": ["alt+shift+c"],
+      "command": "chat_gpt"
+   },
+   { 
+      "keys"    : ["f5"], 
+      "command" : "refresh_folder_list" 
+   },
+   {
+      "keys": ["alt+1"],
+      "command": "terminus_open",
+      "args" : {
+         "cmd": "bash",
+         "cwd": "${file_path:${folder}}",
+         "panel_name": "Terminus"
+      }
+   },
+   {
+    "keys": [ "ctrl+alt+f" ],
+    "command": "js_format"
+   },
+   {
+    "keys": ["shift+alt+d"],
+    "command": "js_prettier"
+   }
+]
